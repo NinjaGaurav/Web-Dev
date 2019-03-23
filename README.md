@@ -1,2 +1,2 @@
 # WebProjects
-HTML,CSS,JS practise
+HTML,CSS,JS stuff
